@@ -139,12 +139,3 @@ your terminal.
 Double-check the path to your input file with `ls` (or `dir` on Windows) —
 the script needs the exact relative or absolute path, including any
 subfolder like `input/`.
-
-## Support
-
-Questions or files this tool can't repair: **support@genrobot.ai**
-
-## License
-
-_TBD — add your chosen license (e.g. MIT, Apache-2.0) before making this
-repo public._
