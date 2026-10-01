@@ -1,6 +1,6 @@
 # mcap-repair
 
-Tools for recovering DAS device `.mcap` recordings that are broken in ways the
+Tools for recovering GenRobt DAS device `.mcap` recordings that are broken in ways the
 recorder can't fix on its own, without losing any data that wasn't already
 unrecoverable.
 
