@@ -291,10 +291,3 @@ Copying the project into your Linux home folder (`~/`) also avoids the issue.
 Double-check the path to your input file with `ls` (or `dir` on Windows).
 The script needs the exact relative or absolute path, including any
 subfolder like `input/`.
-<<<<<<< HEAD
-
-**`BACKWARD timestamp jump ... Not supported by this tool`**
-You're running an older version of the timestamp script. Update
-`fix_timestamp_jump.py` to the current version, which handles backward jumps.
-=======
->>>>>>> 5ed6759d931e2d043d755f24907f6f9a670f9839
